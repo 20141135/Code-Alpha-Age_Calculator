@@ -1,0 +1,29 @@
+ .container{
+    margin-top: 15%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    width: 50%;
+    border-radius: 1.5vw;
+    background-image: radial-gradient(skyblue,rgb(95, 185, 245) ,blue);
+   }
+   .input {
+    display: block;
+  }
+  label{
+    font-size: large;
+    font-weight: bold;
+  }
+  button{
+    background-color: rgb(17, 17, 17);
+    color: whitesmoke;
+    border:1px solid whitesmoke;
+    font-size: large;
+    font-weight: bolder;
+    margin: 2vw;
+  }
+  button:hover {
+    background-color: red;
+
+  }
+  
